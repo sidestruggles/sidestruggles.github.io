@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Phil&#39;s Side Struggles on Side Struggles</title>
     <link>https://www.sidestruggles.com/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content in Phil&#39;s Side Struggles on Side Struggles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jan 2024 21:00:00 -0500</lastBuildDate>
     <atom:link href="https://www.sidestruggles.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What to do?</title>
+      <link>https://www.sidestruggles.com/posts/20240129_what-to-do/</link>
+      <pubDate>Mon, 29 Jan 2024 21:00:00 -0500</pubDate>
+      <guid>https://www.sidestruggles.com/posts/20240129_what-to-do/</guid>
+      <description>I like the Disk Prices site. It holds incredible appeal to me because I am a software engineer who likes the bare minimum website. I plan to re-create the site for another retail item and earn money from Amazon affiliate marketing.</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://www.sidestruggles.com/posts/20240128_my-first-post/</link>
+      <pubDate>Sun, 28 Jan 2024 17:24:10 -0500</pubDate>
+      <guid>https://www.sidestruggles.com/posts/20240128_my-first-post/</guid>
+      <description>Happy 2024! Hi, my name is Phil. Welcome!&#xA;I decided to start my side hustle as part of my 2024 New Year resolution. I hope to use this blog to motivate myself to continue working on my programming side projects. I will use it to hold myself accountable to work it throughout the year.&#xA;My English is horrible. I just used Grammarly to fix my errors.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://www.sidestruggles.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.sidestruggles.com/about/</guid>
+      <description>My name is Phil. I work as a software engineer focusing on backend software development.&#xA;I like to run in my spare time.</description>
+    </item>
+    <item>
+      <title>Bookkeeping</title>
+      <link>https://www.sidestruggles.com/bookkeeping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.sidestruggles.com/bookkeeping/</guid>
+      <description> Description Total time spent 11 hours $ USD spent 580 $ USD earned 0 Date Description Debit Credit 20240121 LegalZoom LLC formation 369 20240121 SquareSpace site registration 12 20240123 LegalZoom LLC formation 199 </description>
+    </item>
+    <item>
+      <title>Useful links</title>
+      <link>https://www.sidestruggles.com/useful_links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.sidestruggles.com/useful_links/</guid>
+      <description> Link Description github host of this site hugo tech behind this blog Grammarly grammar checker Markdown markdown reference </description>
+    </item>
   </channel>
 </rss>

@@ -2,10 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sidestruggles.com/</loc>
+    <lastmod>2024-01-29T21:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.sidestruggles.com/posts/</loc>
+    <lastmod>2024-01-29T21:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.sidestruggles.com/posts/20240129_what-to-do/</loc>
+    <lastmod>2024-01-29T21:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.sidestruggles.com/posts/20240128_my-first-post/</loc>
+    <lastmod>2024-01-28T17:24:10-05:00</lastmod>
+  </url><url>
+    <loc>https://www.sidestruggles.com/about/</loc>
+  </url><url>
+    <loc>https://www.sidestruggles.com/bookkeeping/</loc>
+  </url><url>
     <loc>https://www.sidestruggles.com/categories/</loc>
   </url><url>
-    <loc>https://www.sidestruggles.com/</loc>
-  </url><url>
     <loc>https://www.sidestruggles.com/tags/</loc>
+  </url><url>
+    <loc>https://www.sidestruggles.com/useful_links/</loc>
   </url>
 </urlset>
